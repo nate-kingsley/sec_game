@@ -16,7 +16,21 @@
 
 </head>
 
-<body class="container span12" onload="startgame()"></body>
+<body class="container span12" onload="startgame()">
+
+    <div class="modal hide fade" id="myModal">
+        <div class="modal-header">
+            <h3>Game Results</h3>
+        </div>
+        <div class="modal-body" id="myModalBody">
+        </div>
+        <div class="modal-footer">
+            <a href="#" class="btn" onclick="fb_sec_game.restart();" data-dismiss="modal">Restart</a>
+            <a href="#" onclick="fb_sec_game.acceptPermissionSettings();" class="btn btn-primary">Save Preferences</a>
+        </div>
+    </div>
+
+</body>
 
 <script type="text/javascript">
     function startgame(){
