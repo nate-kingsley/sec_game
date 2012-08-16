@@ -14,9 +14,9 @@
 		<key>1.png</key>
 		<dict>
 			<key>x</key>
-			<integer>5</integer>
+			<integer>648</integer>
 			<key>y</key>
-			<integer>414</integer>
+			<integer>1</integer>
 			<key>width</key>
 			<integer>31</integer>
 			<key>height</key>
@@ -33,9 +33,9 @@
 		<key>2.png</key>
 		<dict>
 			<key>x</key>
-			<integer>5</integer>
+			<integer>584</integer>
 			<key>y</key>
-			<integer>444</integer>
+			<integer>478</integer>
 			<key>width</key>
 			<integer>31</integer>
 			<key>height</key>
@@ -52,9 +52,9 @@
 		<key>3.png</key>
 		<dict>
 			<key>x</key>
-			<integer>5</integer>
+			<integer>648</integer>
 			<key>y</key>
-			<integer>124</integer>
+			<integer>260</integer>
 			<key>width</key>
 			<integer>29</integer>
 			<key>height</key>
@@ -71,9 +71,9 @@
 		<key>4.png</key>
 		<dict>
 			<key>x</key>
-			<integer>5</integer>
+			<integer>648</integer>
 			<key>y</key>
-			<integer>95</integer>
+			<integer>285</integer>
 			<key>width</key>
 			<integer>29</integer>
 			<key>height</key>
@@ -90,9 +90,9 @@
 		<key>5.png</key>
 		<dict>
 			<key>x</key>
-			<integer>5</integer>
+			<integer>648</integer>
 			<key>y</key>
-			<integer>34</integer>
+			<integer>333</integer>
 			<key>width</key>
 			<integer>28</integer>
 			<key>height</key>
@@ -109,9 +109,9 @@
 		<key>6.png</key>
 		<dict>
 			<key>x</key>
-			<integer>42</integer>
+			<integer>584</integer>
 			<key>y</key>
-			<integer>5</integer>
+			<integer>416</integer>
 			<key>width</key>
 			<integer>32</integer>
 			<key>height</key>
@@ -128,9 +128,9 @@
 		<key>7.png</key>
 		<dict>
 			<key>x</key>
-			<integer>5</integer>
+			<integer>648</integer>
 			<key>y</key>
-			<integer>186</integer>
+			<integer>195</integer>
 			<key>width</key>
 			<integer>30</integer>
 			<key>height</key>
@@ -147,9 +147,9 @@
 		<key>8.png</key>
 		<dict>
 			<key>x</key>
-			<integer>5</integer>
+			<integer>584</integer>
 			<key>y</key>
-			<integer>473</integer>
+			<integer>449</integer>
 			<key>width</key>
 			<integer>32</integer>
 			<key>height</key>
@@ -166,9 +166,9 @@
 		<key>9.png</key>
 		<dict>
 			<key>x</key>
-			<integer>5</integer>
+			<integer>648</integer>
 			<key>y</key>
-			<integer>153</integer>
+			<integer>231</integer>
 			<key>width</key>
 			<integer>30</integer>
 			<key>height</key>
@@ -185,9 +185,9 @@
 		<key>10.png</key>
 		<dict>
 			<key>x</key>
-			<integer>5</integer>
+			<integer>648</integer>
 			<key>y</key>
-			<integer>291</integer>
+			<integer>109</integer>
 			<key>width</key>
 			<integer>30</integer>
 			<key>height</key>
@@ -204,9 +204,9 @@
 		<key>11.png</key>
 		<dict>
 			<key>x</key>
-			<integer>5</integer>
+			<integer>648</integer>
 			<key>y</key>
-			<integer>5</integer>
+			<integer>363</integer>
 			<key>width</key>
 			<integer>28</integer>
 			<key>height</key>
@@ -223,9 +223,9 @@
 		<key>12.png</key>
 		<dict>
 			<key>x</key>
-			<integer>5</integer>
+			<integer>648</integer>
 			<key>y</key>
-			<integer>68</integer>
+			<integer>310</integer>
 			<key>width</key>
 			<integer>29</integer>
 			<key>height</key>
@@ -242,9 +242,9 @@
 		<key>body.png</key>
 		<dict>
 			<key>x</key>
-			<integer>42</integer>
+			<integer>584</integer>
 			<key>y</key>
-			<integer>207</integer>
+			<integer>141</integer>
 			<key>width</key>
 			<integer>51</integer>
 			<key>height</key>
@@ -261,9 +261,9 @@
 		<key>bored1.png</key>
 		<dict>
 			<key>x</key>
-			<integer>42</integer>
+			<integer>584</integer>
 			<key>y</key>
-			<integer>403</integer>
+			<integer>1</integer>
 			<key>width</key>
 			<integer>63</integer>
 			<key>height</key>
@@ -280,9 +280,9 @@
 		<key>bored2.png</key>
 		<dict>
 			<key>x</key>
-			<integer>42</integer>
+			<integer>584</integer>
 			<key>y</key>
-			<integer>329</integer>
+			<integer>71</integer>
 			<key>width</key>
 			<integer>63</integer>
 			<key>height</key>
@@ -299,9 +299,9 @@
 		<key>bored3.png</key>
 		<dict>
 			<key>x</key>
-			<integer>110</integer>
+			<integer>519</integer>
 			<key>y</key>
-			<integer>230</integer>
+			<integer>214</integer>
 			<key>width</key>
 			<integer>64</integer>
 			<key>height</key>
@@ -318,9 +318,9 @@
 		<key>happy1.png</key>
 		<dict>
 			<key>x</key>
-			<integer>110</integer>
+			<integer>519</integer>
 			<key>y</key>
-			<integer>382</integer>
+			<integer>71</integer>
 			<key>width</key>
 			<integer>64</integer>
 			<key>height</key>
@@ -337,9 +337,9 @@
 		<key>happy2.png</key>
 		<dict>
 			<key>x</key>
-			<integer>110</integer>
+			<integer>519</integer>
 			<key>y</key>
-			<integer>5</integer>
+			<integer>428</integer>
 			<key>width</key>
 			<integer>64</integer>
 			<key>height</key>
@@ -356,9 +356,9 @@
 		<key>happy3.png</key>
 		<dict>
 			<key>x</key>
-			<integer>179</integer>
+			<integer>519</integer>
 			<key>y</key>
-			<integer>5</integer>
+			<integer>1</integer>
 			<key>width</key>
 			<integer>64</integer>
 			<key>height</key>
@@ -375,9 +375,9 @@
 		<key>idle.png</key>
 		<dict>
 			<key>x</key>
-			<integer>42</integer>
+			<integer>584</integer>
 			<key>y</key>
-			<integer>79</integer>
+			<integer>259</integer>
 			<key>width</key>
 			<integer>34</integer>
 			<key>height</key>
@@ -394,9 +394,9 @@
 		<key>mad1.png</key>
 		<dict>
 			<key>x</key>
-			<integer>110</integer>
+			<integer>519</integer>
 			<key>y</key>
-			<integer>80</integer>
+			<integer>357</integer>
 			<key>width</key>
 			<integer>64</integer>
 			<key>height</key>
@@ -413,9 +413,9 @@
 		<key>mad2.png</key>
 		<dict>
 			<key>x</key>
-			<integer>110</integer>
+			<integer>519</integer>
 			<key>y</key>
-			<integer>155</integer>
+			<integer>286</integer>
 			<key>width</key>
 			<integer>64</integer>
 			<key>height</key>
@@ -432,9 +432,9 @@
 		<key>mad3.png</key>
 		<dict>
 			<key>x</key>
-			<integer>110</integer>
+			<integer>519</integer>
 			<key>y</key>
-			<integer>306</integer>
+			<integer>142</integer>
 			<key>width</key>
 			<integer>64</integer>
 			<key>height</key>
@@ -451,9 +451,9 @@
 		<key>walk1.png</key>
 		<dict>
 			<key>x</key>
-			<integer>179</integer>
+			<integer>442</integer>
 			<key>y</key>
-			<integer>208</integer>
+			<integer>256</integer>
 			<key>width</key>
 			<integer>66</integer>
 			<key>height</key>
@@ -470,9 +470,9 @@
 		<key>walk2.png</key>
 		<dict>
 			<key>x</key>
-			<integer>179</integer>
+			<integer>442</integer>
 			<key>y</key>
-			<integer>336</integer>
+			<integer>129</integer>
 			<key>width</key>
 			<integer>75</integer>
 			<key>height</key>
@@ -489,9 +489,9 @@
 		<key>walk3.png</key>
 		<dict>
 			<key>x</key>
-			<integer>342</integer>
+			<integer>1</integer>
 			<key>y</key>
-			<integer>280</integer>
+			<integer>264</integer>
 			<key>width</key>
 			<integer>96</integer>
 			<key>height</key>
@@ -508,9 +508,9 @@
 		<key>walk4.png</key>
 		<dict>
 			<key>x</key>
-			<integer>259</integer>
+			<integer>346</integer>
 			<key>y</key>
-			<integer>137</integer>
+			<integer>274</integer>
 			<key>width</key>
 			<integer>77</integer>
 			<key>height</key>
@@ -527,9 +527,9 @@
 		<key>walk5.png</key>
 		<dict>
 			<key>x</key>
-			<integer>179</integer>
+			<integer>442</integer>
 			<key>y</key>
-			<integer>79</integer>
+			<integer>380</integer>
 			<key>width</key>
 			<integer>66</integer>
 			<key>height</key>
@@ -546,9 +546,9 @@
 		<key>walk6.png</key>
 		<dict>
 			<key>x</key>
-			<integer>259</integer>
+			<integer>442</integer>
 			<key>y</key>
-			<integer>5</integer>
+			<integer>1</integer>
 			<key>width</key>
 			<integer>76</integer>
 			<key>height</key>
@@ -565,9 +565,9 @@
 		<key>walk7.png</key>
 		<dict>
 			<key>x</key>
-			<integer>342</integer>
+			<integer>1</integer>
 			<key>y</key>
-			<integer>5</integer>
+			<integer>381</integer>
 			<key>width</key>
 			<integer>95</integer>
 			<key>height</key>
@@ -584,9 +584,9 @@
 		<key>walk8.png</key>
 		<dict>
 			<key>x</key>
-			<integer>259</integer>
+			<integer>346</integer>
 			<key>y</key>
-			<integer>363</integer>
+			<integer>150</integer>
 			<key>width</key>
 			<integer>78</integer>
 			<key>height</key>
@@ -603,9 +603,9 @@
 		<key>apple.png</key>
 		<dict>
 			<key>x</key>
-			<integer>5</integer>
+			<integer>648</integer>
 			<key>y</key>
-			<integer>324</integer>
+			<integer>76</integer>
 			<key>width</key>
 			<integer>30</integer>
 			<key>height</key>
@@ -622,9 +622,9 @@
 		<key>banana.png</key>
 		<dict>
 			<key>x</key>
-			<integer>5</integer>
+			<integer>648</integer>
 			<key>y</key>
-			<integer>226</integer>
+			<integer>168</integer>
 			<key>width</key>
 			<integer>30</integer>
 			<key>height</key>
@@ -641,9 +641,9 @@
 		<key>grapes.png</key>
 		<dict>
 			<key>x</key>
-			<integer>5</integer>
+			<integer>648</integer>
 			<key>y</key>
-			<integer>361</integer>
+			<integer>27</integer>
 			<key>width</key>
 			<integer>30</integer>
 			<key>height</key>
@@ -660,9 +660,9 @@
 		<key>orange.png</key>
 		<dict>
 			<key>x</key>
-			<integer>5</integer>
+			<integer>648</integer>
 			<key>y</key>
-			<integer>257</integer>
+			<integer>138</integer>
 			<key>width</key>
 			<integer>30</integer>
 			<key>height</key>
@@ -675,32 +675,13 @@
 			<integer>30</integer>
 			<key>originalHeight</key>
 			<integer>29</integer>
-		</dict>
-		<key>bg.png</key>
-		<dict>
-			<key>x</key>
-			<integer>443</integer>
-			<key>y</key>
-			<integer>5</integer>
-			<key>width</key>
-			<integer>344</integer>
-			<key>height</key>
-			<integer>262</integer>
-			<key>offsetX</key>
-			<real>0</real>
-			<key>offsetY</key>
-			<real>0</real>
-			<key>originalWidth</key>
-			<integer>344</integer>
-			<key>originalHeight</key>
-			<integer>262</integer>
 		</dict>
 		<key>booth.png</key>
 		<dict>
 			<key>x</key>
-			<integer>259</integer>
+			<integer>346</integer>
 			<key>y</key>
-			<integer>265</integer>
+			<integer>398</integer>
 			<key>width</key>
 			<integer>77</integer>
 			<key>height</key>
@@ -717,9 +698,9 @@
 		<key>cart.png</key>
 		<dict>
 			<key>x</key>
-			<integer>342</integer>
+			<integer>346</integer>
 			<key>y</key>
-			<integer>127</integer>
+			<integer>1</integer>
 			<key>width</key>
 			<integer>95</integer>
 			<key>height</key>
@@ -736,9 +717,9 @@
 		<key>wheel.png</key>
 		<dict>
 			<key>x</key>
-			<integer>42</integer>
+			<integer>584</integer>
 			<key>y</key>
-			<integer>42</integer>
+			<integer>383</integer>
 			<key>width</key>
 			<integer>32</integer>
 			<key>height</key>
@@ -751,6 +732,25 @@
 			<integer>32</integer>
 			<key>originalHeight</key>
 			<integer>32</integer>
+		</dict>
+		<key>bg.png</key>
+		<dict>
+			<key>x</key>
+			<integer>1</integer>
+			<key>y</key>
+			<integer>1</integer>
+			<key>width</key>
+			<integer>344</integer>
+			<key>height</key>
+			<integer>262</integer>
+			<key>offsetX</key>
+			<real>0</real>
+			<key>offsetY</key>
+			<real>0</real>
+			<key>originalWidth</key>
+			<integer>344</integer>
+			<key>originalHeight</key>
+			<integer>262</integer>
 		</dict>
 	</dict>
 </dict>
