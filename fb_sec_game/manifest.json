@@ -1,0 +1,10 @@
+{
+  "name": "Secure/a/me",
+  "version": "1.0",
+  "manifest_version": 2,
+  "description": "A Game For Facebook Security Permissions",
+  "browser_action": {
+    "default_icon": "img/banana.png",
+	"default_popup": "index.html"
+  }
+}
