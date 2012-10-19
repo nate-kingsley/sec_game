@@ -246,6 +246,10 @@ goog.addDependency('../../../lime/src/ui/container.js', ['lime.ui.Container'], [
 goog.addDependency('../../../lime/src/ui/scroller.js', ['lime.ui.Scroller'], ['lime.Sprite', 'lime.animation.MoveTo']);
 goog.addDependency('../../../lime/src/useragent.js', ['lime.userAgent'], ['goog.userAgent']);
 goog.addDependency('../../../lime/templates/default/__name__.js', ['{name}'], ['lime.Circle', 'lime.Director', 'lime.Label', 'lime.Layer', 'lime.Scene', 'lime.animation.FadeTo', 'lime.animation.MoveTo', 'lime.animation.ScaleTo', 'lime.animation.Spawn']);
+goog.addDependency('../../../tokyo/assets/spritesheet/game_spritesheet.plist.soy.js', ['lime.ASSETS.game_spritesheet.plist'], ['soy']);
+goog.addDependency('../../../tokyo/src/bgscroll.js', ['Scroller'], ['lime.JoyStick', 'lime.Layer', 'lime.Sprite', 'lime.animation.MoveBy']);
+goog.addDependency('../../../tokyo/src/index.js', ['tokyo'], ['Scroller', 'box2d.JointDef', 'box2d.MouseJointDef', 'box2d.Vec2', 'box2d.World', 'lime.ASSETS.game_spritesheet.plist', 'lime.Circle', 'lime.Director', 'lime.GlossyButton', 'lime.JoyStick', 'lime.Label', 'lime.Layer', 'lime.Scene', 'lime.Sprite', 'lime.SpriteSheet', 'lime.animation.KeyframeAnimation', 'lime.animation.Loop', 'lime.animation.MoveBy', 'lime.animation.MoveTo', 'lime.animation.Sequence', 'lime.audio.Audio', 'lime.helper.PauseScene', 'lime.scheduleManager', 'lime.transitions.Dissolve']);
+goog.addDependency('../../../tokyo/src/joystick.js', ['lime.JoyStick'], ['lime.Layer', 'lime.fill.Color', 'lime.fill.LinearGradient']);
 goog.addDependency('../../closure/goog/array/array.js', ['goog.array', 'goog.array.ArrayLike'], ['goog.asserts']);
 goog.addDependency('../../closure/goog/asserts/asserts.js', ['goog.asserts', 'goog.asserts.AssertionError'], ['goog.debug.Error', 'goog.string']);
 goog.addDependency('../../closure/goog/async/animationdelay.js', ['goog.async.AnimationDelay'], ['goog.async.Delay', 'goog.functions']);
